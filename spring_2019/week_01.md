@@ -2,22 +2,21 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week, I have been starting to learn swift and its syntax and basic functionality. \
+> I also have been attempting to download a Mac emulator, so that I can code in swift using Xcode.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> This week I want to focus more on learning about UIs in Swift, so that we can start building a basic UI soon.
 
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> I have been unable to successfully download a Mac emulator and that has delayed compared to my group members. \
+> I hope to be able to get it to work so that I can start coding.
 
 ## Notes
 
