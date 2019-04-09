@@ -9,7 +9,8 @@
 
 > In this section, you can write about what you have planned for next week.
 
-> I personally want to start to implement certain features with Standings now that I have my database for it.
+> I personally want to start to implement certain features with Standings now that I have my database for it. \
+> However, I will mostly be working on our presentation
 
 ## Anything Blocking?
 
